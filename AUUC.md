@@ -1,8 +1,8 @@
 ---
 alias:
-- Area Under the Uplift Curve
+  - Area Under the Uplift Curve
 tags:
-- Causal Inference
+  - Causal Inference
 public: true
 title: AUUC
 date: 2024-10-05
