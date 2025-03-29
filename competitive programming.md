@@ -2,7 +2,7 @@
 title: competitive programming
 public: true
 alias:
-- 竞赛性编程
+  - 竞赛性编程
 tags:
 date: 2024-10-05
 updated: 2024-10-05
