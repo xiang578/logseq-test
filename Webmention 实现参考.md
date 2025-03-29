@@ -1,10 +1,10 @@
 ---
 categories: 随手记
 tags:
-- webmention
-- IndieWeb
+  - webmention
+  - IndieWeb
 date:
-- 2023/04/06
+  - 2023/04/06
 public: true
 permalink: note/641ea60f-a31e-4979-9327-c50509c146e3
 title: Webmention 实现参考
