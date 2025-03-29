@@ -1,8 +1,8 @@
 ---
 url: [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MY4y1R7EN/)
 tags:
-- ChatGPT
-- YJango@学习观
+  - ChatGPT
+  - YJango@学习观
 public: true
 title: YJango@万字科普ChatGPT-4为什么会颠覆人类社会
 date: 2024-10-05
