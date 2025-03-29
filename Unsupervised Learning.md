@@ -1,11 +1,11 @@
 ---
 alias:
-  - 无监督学习
+  - "无监督学习"
 public: true
-title: Unsupervised Learning
+title: "Unsupervised Learning"
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
