@@ -1,7 +1,7 @@
 ---
 tags:
-- Algorithm
-- Paper
+  - Algorithm
+  - Paper
 public: true
 title: ResNet
 date: 2024-10-05
