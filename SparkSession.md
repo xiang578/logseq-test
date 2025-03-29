@@ -1,6 +1,6 @@
 ---
 tags:
-- Spark
+  - Spark
 public: true
 title: SparkSession
 date: 2024-10-05
