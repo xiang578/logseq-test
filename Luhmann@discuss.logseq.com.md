@@ -1,15 +1,14 @@
 ---
 tags:
-- creator
+  - creator
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/05/25
+  - 2024/05/25
 permalink: note/Luhmann_discuss_logseq_com
 title: Luhmann@discuss.logseq.com
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
