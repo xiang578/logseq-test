@@ -1,8 +1,8 @@
 ---
 tags:
-- Python
+  - Python
 date:
-- 2024/05/09
+  - 2024/05/09
 public: true
 title: f-string
 updated: 2024-10-05
