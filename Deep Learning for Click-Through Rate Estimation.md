@@ -1,8 +1,8 @@
 ---
 tags:
-- Paper
-- CTR
-- Survey
+  - Paper
+  - CTR
+  - Survey
 public: true
 title: Deep Learning for Click-Through Rate Estimation
 date: 2024-10-05
