@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Mathematics
+  - Mathematics
 title: Box-Cox transformation
 date: 2024-10-05
 updated: 2024-10-05
