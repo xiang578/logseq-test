@@ -2,9 +2,9 @@
 title: Xavier Initialization
 public: true
 author:
-- Xavier Glorot
+  - Xavier Glorot
 tags:
-- Algorithm
+  - Algorithm
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
