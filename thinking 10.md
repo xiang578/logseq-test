@@ -3,10 +3,10 @@ public: true
 categories: 随想集
 ptitile: 【随想集】10 新思路使用 Anki
 date:
-- 2024/08/25
+  - 2024/08/25
 tags:
-- weekly
-- Anki
+  - weekly
+  - Anki
 permalink: /weekly/thinking_10
 title: thinking 10
 updated: 2024-10-05
