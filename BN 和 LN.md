@@ -1,12 +1,12 @@
 ---
 public: true
 tags:
-  - Batch Normalization
-  - Layer Normalization
-deck: being/Normalization
-title: BN 和 LN
-date: 2024-10-05
-updated: 2024-11-25
+  - "Batch Normalization"
+  - "Layer Normalization"
+deck: "being/Normalization"
+title: "BN 和 LN"
+date: "2024-10-05"
+updated: "2024-11-25"
 toc: true
 mathjax: true
 ---
