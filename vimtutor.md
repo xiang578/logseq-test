@@ -1,16 +1,15 @@
 ---
 tags:
-- Vim
+  - Vim
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/21
+  - 2024/06/21
 permalink: note/vimtutor
 deck: being/Vim
 title: vimtutor
 updated: 2025-01-23
-toc: true
 mathjax: true
 ---
 
