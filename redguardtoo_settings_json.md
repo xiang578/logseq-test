@@ -1,0 +1,226 @@
+---
+public: true
+title: redguardtoo/settings_json
+tags:
+date: 2024-10-05
+updated: 2024-10-05
+toc: true
+mathjax: true
+---
+
+[[@如何提高编程速度：Emacs高手教授轻松精通所有编辑器和IDE的秘诀]] 中提到的 vim 快捷键设置
+
+<!--more-->
+
+```json
+{
+  "vim.easymotion": true,
+  "vim.sneak": true,
+  "vim.visualstar": true,
+  "vim.ignorecase": false,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["k","j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.leader": ",",
+  "vim.visualModeKeyBindingsNonRecursive": [
+    {
+      "before": ["v"],
+      "commands": ["editor.action.smartSelect.expand"]
+    },
+    {
+      "before": ["%"],
+      "commands": ["extension.matchitJumpItems"]
+    },
+    {
+      "before": ["<leader>","x", "x"],
+      "commands": ["editor.action.smartSelect.expand"]
+    },
+    {
+      "before": ["<leader>","z", "z"],
+      "commands": ["editor.action.smartSelect.shrink"]
+    },
+    {
+      "before": ["<leader>","c", "i"],
+      "commands": ["editor.action.commentLine"]
+    },
+    {
+      "before": ["<leader", "a", "a"],
+      "commands": ["editor.action.clipboardCopyAction"]
+    },
+    {
+      "before": ["<leader>","q", "q"],
+      "commands": ["workbench.action.findInFiles"]
+    },
+    {
+      "before": ["<leader>","s", "s"],
+      "commands": ["actions.find"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>","r", "v"],
+      "commands": ["editor.action.rename"]
+    },
+    {
+      "before": ["<leader>","q", "q"],
+      "commands": ["workbench.action.findInFiles"]
+    },
+    {
+      "before": ["<leader>","f", "p"],
+      "commands": ["workbench.action.files.copyPathOfActiveFile"]
+    },
+    {
+      "before": ["<leader>","f", "n"],
+      "commands": ["copyRelativeFilePath"]
+    },
+    {
+      "before": ["<leader>","t", "p"],
+      "commands": ["workbench.action.togglePanel"]
+    },
+    {
+      "before": ["<leader>","x", "m"],
+      "commands": ["workbench.action.showCommands"]
+    },
+    {
+      "before": ["<leader>","c", "i"],
+      "commands": ["editor.action.commentLine"]
+    },
+    {
+      "before": ["<leader>","x", "x"],
+      "commands": ["editor.action.smartSelect.expand"]
+    },
+    {
+      "before": ["<leader>","z", "z"],
+      "commands": ["editor.action.smartSelect.shrink"]
+    },
+    {
+      "before": ["<leader>","t", "a"],
+      "commands": ["workbench.action.toggleActivityBarVisibility"]
+    },
+    {
+      "before": ["<leader>","t", "b"],
+      "commands": ["workbench.action.toggleSidebarVisibility"]
+    },
+    {
+      "before": ["<leader>","x", "s"],
+      "commands": ["workbench.action.files.save"]
+    },
+    {
+      "before": ["<leader>","s", "s"],
+      "commands": ["actions.find"]
+    },
+    {
+      "before": ["%"],
+      "commands": ["extension.matchitJumpItems"]
+    },
+    {
+      "before": ["<leader>","s", "i"],
+      "commands": ["extension.matchitSelectItems"]
+    },
+    {
+      "before": ["<leader>","d", "i"],
+      "commands": ["extension.matchitDeleteItems"]
+    },
+    {
+      "before": ["<leader>","x", "f"],
+      "commands": ["workbench.action.files.openFile"]
+    },
+    {
+      "before": ["<leader>", "x", "k"],
+      "commands": ["workbench.action.closeActiveEditor"]
+    },
+    {
+      
+      "before": ["<leader>","r", "r"],
+      "commands": ["workbench.action.openRecent"]
+    },
+    {
+      "before": ["<leader>","k", "k"],
+      "commands": ["workbench.action.quickOpen"]
+    },
+    {
+      "before": ["<leader>","i", "i"],
+      "commands": ["workbench.action.gotoSymbol"]
+    },
+    {
+      "before": ["<leader>","x", "1"],
+      "commands": ["workbench.action.editorLayoutSingle"]
+    },
+    {
+      "before": ["<leader>","x", "3"],
+      "commands": ["workbench.action.splitEditorRight"]
+    },
+    {
+      "before": ["<leader>","x", "2"],
+      "commands": ["workbench.action.splitEditorDown"]
+    },
+    {
+      "before": ["<leader>","x", "4"],
+      "commands": ["workbench.action.editorLayoutTwoByTwoGrid"]
+    },
+    {
+      "before": ["<leader>","x", "0"],
+      "commands": ["workbench.action.closeGroup"]
+    },
+    {
+      "before": ["<leader>","x", "z"],
+      "commands": ["workbench.action.terminal.focus"]
+    },
+    {
+      "before": ["<leader>","f", "f"],
+      "commands": ["workbench.action.toggleZenMode"]
+    },
+    {
+      "before": ["<leader>","w", "h"],
+      "after": ["<C-w>", "h"]
+    },
+    {
+      "before": ["<leader>","w", "j"],
+      "after": ["<C-w>", "j"]
+    },
+    {
+      "before": ["<leader>","w", "k"],
+      "after": ["<C-w>", "k"]
+    },
+    {
+      "before": ["<leader>","w", "l"],
+      "after": ["<C-w>", "l"]
+    },
+    {
+      "before": ["<leader>","w", "q"],
+      "after": [":wq"],
+    }
+  ],
+  "vim.handleKeys":{
+    "<C-a>": false,
+  },
+  "zenMode.centerLayout": false,
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false,
+  "search.exclude": {
+    "**/.git": true,
+    "**/*.bundle.js": true,
+    "**/bin-packages": true,
+    "**/frontend-dist": true,
+    "**/npm-packages-offline-cache": true
+  },
+  "search.useGlobalIgnoreFiles": true,
+  "search.location": "panel",
+  "workbench.activityBar.visible": false,
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Solarized Dark",
+  "workbench.statusBar.visible": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "window.titleBarStyle": "native",
+  "editor.renderLineHighlight": "none",
+  "extensions.ignoreRecommendations": true,
+  "editor.occurrencesHighlight": false
+}
+```
