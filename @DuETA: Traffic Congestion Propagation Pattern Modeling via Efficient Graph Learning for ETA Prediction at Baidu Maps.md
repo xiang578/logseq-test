@@ -1,30 +1,30 @@
 ---
 url: http://arxiv.org/abs/2208.06979
 authors:
-- Jizhou Huang
-- Zhengjie Huang
-- Xiaomin Fang
-- Shikun Feng
-- Xuyi Chen
-- Jiaxiang Liu
-- Haitao Yuan
-- Haifeng Wang
+  - Jizhou Huang
+  - Zhengjie Huang
+  - Xiaomin Fang
+  - Shikun Feng
+  - Xuyi Chen
+  - Jiaxiang Liu
+  - Haitao Yuan
+  - Haifeng Wang
 doi: 10.1145/3511808.3557091
 tags:
-- Baidu
-- ETA
-- Paper
-- Graph Transformer
-- GNN
-- traffic prediction
+  - Baidu
+  - ETA
+  - Paper
+  - Graph Transformer
+  - GNN
+  - traffic prediction
 original-title: DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps
 links: [Local library](zotero://select/library/items/BFB5BZYA), [Web library](https://www.zotero.org/users/4911197/items/BFB5BZYA)
 title: @DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps
 public: true
 date:
-- 2022/10/17
+  - 2022/10/17
 alias:
-- DuETA
+  - DuETA
 updated: 2025-03-15
 toc: true
 mathjax: true
