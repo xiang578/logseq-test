@@ -2,8 +2,8 @@
 title: SVD
 public: true
 alias:
-- Singular Value Decomposition
-- 奇异值分解
+  - Singular Value Decomposition
+  - 奇异值分解
 tags:
 date: 2024-10-05
 updated: 2024-10-05
