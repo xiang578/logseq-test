@@ -1,29 +1,29 @@
 ---
 tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Information Retrieval
-- Computer Science - Machine Learning
-- Statistics - Machine Learning
-- Paper
-- KDD/2019
-- Airbnb
+  - Computer Science - Artificial Intelligence
+  - Computer Science - Information Retrieval
+  - Computer Science - Machine Learning
+  - Statistics - Machine Learning
+  - Paper
+  - KDD/2019
+  - Airbnb
 date:
-- 2018/10/22
+  - 2018/10/22
 title: @Applying Deep Learning To Airbnb Search
 original-title: Applying Deep Learning To Airbnb Search
 url: http://arxiv.org/abs/1810.09591
 authors:
-- Tao Xu
-- Malay Haldar
-- Brendan M. Collins
-- Prashant Ramanathan
-- Qing Zhang
-- Mustafa Abdool
-- Huizhong Duan
-- Shulin Yang
-- Thomas Legrand
-- Bradley C. Turnbull
-- Nick Barrow-Williams
+  - Tao Xu
+  - Malay Haldar
+  - Brendan M. Collins
+  - Prashant Ramanathan
+  - Qing Zhang
+  - Mustafa Abdool
+  - Huizhong Duan
+  - Shulin Yang
+  - Thomas Legrand
+  - Bradley C. Turnbull
+  - Nick Barrow-Williams
 public: true
 links: [Local library](zotero://select/library/items/KGQ39ZDW), [Web library](https://www.zotero.org/users/4911197/items/KGQ39ZDW)
 updated: 2024-10-05
