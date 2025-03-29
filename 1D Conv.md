@@ -1,6 +1,6 @@
 ---
 alias:
-- 1D 卷积
+  - 1D 卷积
 public: true
 title: 1D Conv
 tags:
