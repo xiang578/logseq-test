@@ -1,6 +1,6 @@
 ---
 alias:
-- 分位数回归
+  - 分位数回归
 public: true
 title: quantile regression
 tags:
