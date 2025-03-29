@@ -1,6 +1,6 @@
 ---
 alias:
-- 贪心
+  - 贪心
 public: true
 title: greedy
 tags:
