@@ -1,8 +1,8 @@
 ---
 alias:
-- 损失函数
+  - 损失函数
 tags:
-- Algorithm
+  - Algorithm
 public: true
 title: Loss Function
 date: 2024-10-05
