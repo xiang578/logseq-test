@@ -1,16 +1,16 @@
 ---
 tags:
-- Machine learning
-- Pattern perception
-- book
+  - Machine learning
+  - Pattern perception
+  - book
 date: 2006
 isbn: 978-0-387-31073-2
 title: @Pattern recognition and machine learning
 authors:
-- Christopher M. Bishop
+  - Christopher M. Bishop
 links: [Local library](zotero://select/library/items/4IH2QG6C), [Web library](https://www.zotero.org/users/4911197/items/4IH2QG6C)
 alias:
-- PRML
+  - PRML
 public: true
 updated: 2024-10-05
 toc: true
