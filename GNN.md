@@ -1,8 +1,8 @@
 ---
 alias:
-- 图神经网络
-- GNN
-- Graph Neural Network
+  - 图神经网络
+  - GNN
+  - Graph Neural Network
 public: true
 title: GNN
 tags:
