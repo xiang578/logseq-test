@@ -3,11 +3,11 @@ title: Stop Taking Regular Notes Use a Zettelkasten Instead
 public: true
 url: https://eugeneyan.com/2020/04/05/note-taking-zettelkasten, https://twitter.com/eugeneyan/status/1259540160468770817
 tags:
-- Article
-- Workflow
-- Zettelkasten
+  - Article
+  - Workflow
+  - Zettelkasten
 author:
-- Eugene Yan
+  - Eugene Yan
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
