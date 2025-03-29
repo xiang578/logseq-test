@@ -3,7 +3,7 @@ title: GAT
 public: true
 type: Paper
 alias:
-- Graph Attention Networks
+  - Graph Attention Networks
 tags:
 date: 2024-10-05
 updated: 2024-10-05
