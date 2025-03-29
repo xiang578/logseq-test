@@ -1,7 +1,7 @@
 ---
 tags:
-- 少楠
-- @笔记的方法
+  - 少楠
+  - @笔记的方法
 public: true
 url: [开启 life log 之后，发现了那些未被觉察的问题 (notion.so)](https://www.notion.so/life-log-7cdf84fca17b406aafbea9a2ec9ad5ce), [开启 life log 之后，我发现了哪些未被觉察的问题？](https://mp.weixin.qq.com/s/I0qsDG0G43VtvYhcs1h8Yg)
 title: 少楠通过 flomo 写 life log
