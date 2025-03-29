@@ -1,17 +1,16 @@
 ---
 tags:
-- web
-- zhihu
-- Zettelkasten
+  - web
+  - zhihu
+  - Zettelkasten
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/18
+  - 2024/07/18
 permalink: note/zh_473841271
 title: 圣弗朗西西利亚蒂​@谈Zettelkasten
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
