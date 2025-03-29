@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Spark
+  - Spark
 title: Pair RDD
 date: 2024-10-05
 updated: 2024-10-05
