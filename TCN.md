@@ -2,12 +2,12 @@
 title: TCN
 public: true
 alias:
-- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+  - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 tags:
-- Algorithm
-- Paper
-- Google
-- CNN
+  - Algorithm
+  - Paper
+  - Google
+  - CNN
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
