@@ -1,10 +1,10 @@
 ---
 title: Normalization
 alias:
-- 归一化
-- 规范化
+  - 归一化
+  - 规范化
 tags:
-- Algorithm
+  - Algorithm
 public: true
 deck: being
 date: 2024-10-05
