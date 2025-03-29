@@ -2,8 +2,8 @@
 public: true
 title: Feature Engineering/Time Series Feature
 alias:
-- 时序特征
-- 时间序列特征工程
+  - 时序特征
+  - 时间序列特征工程
 tags:
 date: 2024-10-05
 updated: 2024-10-05
