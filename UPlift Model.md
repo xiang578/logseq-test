@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- 增益模型
+  - 增益模型
 title: UPlift Model
 tags:
 date: 2024-10-05
