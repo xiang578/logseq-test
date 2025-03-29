@@ -3,7 +3,7 @@ title: LSTM
 deck: being/machine_learning/LSTM
 public: true
 tags:
-- Algorithm
+  - Algorithm
 date: 2024-10-05
 updated: 2025-03-20
 toc: true
