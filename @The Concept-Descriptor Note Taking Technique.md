@@ -1,16 +1,15 @@
 ---
 tags:
-- web
-- Martin Schneider
+  - web
+  - Martin Schneider
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/27
+  - 2024/07/27
 permalink: note/Martin_Schneider_5_step
 title: @The Concept-Descriptor Note Taking Technique
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
