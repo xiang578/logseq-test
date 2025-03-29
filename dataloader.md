@@ -1,6 +1,6 @@
 ---
 tags:
-- Pytorch
+  - Pytorch
 public: true
 title: dataloader
 date: 2024-10-05
