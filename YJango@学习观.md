@@ -1,16 +1,15 @@
 ---
 tags:
-- web
-- Video
+  - web
+  - Video
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/05/30
+  - 2024/05/30
 permalink: note/yjango_learning
 title: YJango@学习观
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
