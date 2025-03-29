@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- 负采样
+  - 负采样
 title: Word2Vec/Negative Sampling
 date: 2024-10-05
 updated: 2024-10-05
