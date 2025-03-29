@@ -13,7 +13,7 @@ date:
 alias:
   - "Pyraformer"
 language: "en"
-updated: "2024-10-05"
+updated: "2025-03-30"
 toc: true
 mathjax: true
 ---
@@ -34,10 +34,8 @@ mathjax: true
 
   + Extensive numerical results show that Pyraformer typically achieves the highest prediction accuracy in both single-step and long-range forecasting tasks with the least amount of time and memory consumption, especially when the sequence is long.
 
-[[Attachments]]
-
-  + [Pyraformer_2022_Liu.pdf](zotero://select/library/items/MRMAD8N8) {{zotero-linked-file "attachments:Pyraformer_2022_Liu.pdf"}}
-
 ## [[Summary]]
+
+
 
 
