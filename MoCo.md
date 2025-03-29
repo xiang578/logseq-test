@@ -1,9 +1,9 @@
 ---
 title: MoCo
 alias:
-- Momentum Contrast for Unsupervised Visual Representation Learning
+  - Momentum Contrast for Unsupervised Visual Representation Learning
 tags:
-- Paper
+  - Paper
 public: true
 date: 2024-10-05
 updated: 2024-10-05
