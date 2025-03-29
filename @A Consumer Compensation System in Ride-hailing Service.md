@@ -1,21 +1,21 @@
 ---
 date:
-- 2023/07/19
+  - 2023/07/19
 authors:
-- Zhe Yu
-- Chi Xia
-- Shaosheng Cao
-- Lin Zhou
-- Haibin Huang
+  - Zhe Yu
+  - Chi Xia
+  - Shaosheng Cao
+  - Lin Zhou
+  - Haibin Huang
 links: [Local library](zotero://select/library/items/UAXLKKJV), [Web library](https://www.zotero.org/users/4911197/items/UAXLKKJV)
 tags:
-- SIGIR/2023
-- Paper
-- Dynamic Pricing
-- 2024
-- 已读
+  - SIGIR/2023
+  - Paper
+  - Dynamic Pricing
+  - 2024
+  - 已读
 affiliation:
-- didi/货运算法团队
+  - didi/货运算法团队
 public: true
 title: @A Consumer Compensation System in Ride-hailing Service
 updated: 2024-10-05
