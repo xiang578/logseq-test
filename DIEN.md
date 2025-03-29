@@ -1,13 +1,13 @@
 ---
 title: DIEN
 alias:
-- @Deep Interest Evolution Network for Click-Through Rate Prediction
+  - @Deep Interest Evolution Network for Click-Through Rate Prediction
 type: Paper
 public: true
 tags:
-- CTR
-- Alibaba
-- Algorithm
+  - CTR
+  - Alibaba
+  - Algorithm
 date: 2024-10-05
 updated: 2025-01-19
 toc: true
