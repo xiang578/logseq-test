@@ -1,17 +1,16 @@
 ---
 tags:
-- web
-- how to read a book
-- Farnam Street
+  - web
+  - how to read a book
+  - Farnam Street
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/26
+  - 2024/06/26
 permalink: note/fs_reading
 title: @Reading Better: Retaining and Applying What You Read
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
