@@ -2,7 +2,7 @@
 title: Mathematics
 public: true
 alias:
-- 数学
+  - 数学
 tags:
 date: 2024-10-05
 updated: 2024-10-05
