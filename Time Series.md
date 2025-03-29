@@ -1,6 +1,6 @@
 ---
 alias:
-- 时间序列
+  - 时间序列
 public: true
 title: Time Series
 tags:
