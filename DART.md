@@ -1,9 +1,9 @@
 ---
 alias:
-- Dropouts meet Multiple Additive Regression Trees
+  - Dropouts meet Multiple Additive Regression Trees
 tags:
-- Paper
-- LightGBM
+  - Paper
+  - LightGBM
 public: true
 deck: being/ML/DART
 title: DART
