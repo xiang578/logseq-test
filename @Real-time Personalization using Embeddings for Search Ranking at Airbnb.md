@@ -1,7 +1,6 @@
 ---
 url: "http://dl.acm.org/citation.cfm?doid=3219819.3219885"
 pages: "311-320"
-place: ""London, United Kingdom""
 library-catalog: "DOI.org (Crossref)"
 authors:
   - "Mihajlo Grbovic"
@@ -25,7 +24,7 @@ proceedings-title: "Proceedings of the 24th ACM SIGKDD International Conference 
 item-type:
   - "conferencePaper"
 isbn: "978-1-4503-5552-0"
-updated: "2024-10-05"
+updated: "2025-03-30"
 toc: true
 mathjax: true
 ---
