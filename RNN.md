@@ -3,7 +3,7 @@ title: RNN
 deck: being/deep_learning/RNN
 public: true
 tags:
-- Algorithm
+  - Algorithm
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
