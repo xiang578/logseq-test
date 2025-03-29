@@ -1,10 +1,10 @@
 ---
 title: self-attention
 tags:
-- Algorithm
+  - Algorithm
 public: true
 alias:
-- 自注意力
+  - 自注意力
 deck: being
 date: 2024-10-05
 updated: 2024-12-13
