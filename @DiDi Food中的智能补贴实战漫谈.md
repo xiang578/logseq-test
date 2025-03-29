@@ -1,13 +1,13 @@
 ---
 tags:
-- Causal Inference
-- 智能营销
-- Ref
-- web
-- Ship 90 for 90
+  - Causal Inference
+  - 智能营销
+  - Ref
+  - web
+  - Ship 90 for 90
 public: true
 date:
-- 2024/04/19
+  - 2024/04/19
 categories: 随手记
 permalink: /note/WU1iILMFdH3RZAbJKFU4WA
 title: @DiDi Food中的智能补贴实战漫谈
