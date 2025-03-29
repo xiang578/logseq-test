@@ -1,16 +1,15 @@
 ---
 tags:
-- web
-- Tana
+  - web
+  - Tana
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/08/11
+  - 2024/08/11
 permalink: note/ytb_pWAn-Dx0p2I
 title: Tana Tutorial | How to use Semantic Functions in Tana
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
