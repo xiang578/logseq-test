@@ -1,12 +1,12 @@
 ---
 title: Bernoulli Distribution
 tags:
-- Mathematics
+  - Mathematics
 alias:
-- 伯努利分布
-- 二元分布
-- 二值分布
-- binary distribution
+  - 伯努利分布
+  - 二元分布
+  - 二值分布
+  - binary distribution
 public: true
 date: 2024-10-05
 updated: 2024-10-05
