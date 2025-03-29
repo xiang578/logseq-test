@@ -3,11 +3,11 @@ public: true
 categories: 随想集
 ptitile: 【随想集】9 新思路
 date:
-- 2024/06/16
+  - 2024/06/16
 tags:
-- weekly
-- Profile Page
-- Logseq
+  - weekly
+  - Profile Page
+  - Logseq
 permalink: /weekly/thinking_9
 title: thinking 9
 updated: 2024-10-05
