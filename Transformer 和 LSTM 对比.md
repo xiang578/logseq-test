@@ -1,8 +1,8 @@
 ---
 public: true
 tags:
-- Transformer
-- LSTM
+  - Transformer
+  - LSTM
 url: https://www.zhihu.com/question/439243827
 title: Transformer 和 LSTM 对比
 date: 2024-10-05
