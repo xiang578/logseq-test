@@ -1,12 +1,12 @@
 ---
 public: true
-url: https://www.youtube.com/watch?v=GjpjE5pMZMI
+url: "https://www.youtube.com/watch?v=GjpjE5pMZMI"
 tags:
-  - zettelkasten
-  - Video
-title: @A Tour Through My Zettelkasten
-date: 2024-10-05
-updated: 2024-10-05
+  - "zettelkasten"
+  - "Video"
+title: "@A Tour Through My Zettelkasten"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
