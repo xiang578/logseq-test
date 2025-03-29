@@ -3,9 +3,9 @@ public: true
 categories: 随想集
 ptitile: 【随想集】11 踏上取经的路
 date:
-- 2024/09/07
+  - 2024/09/07
 tags:
-- weekly
+  - weekly
 permalink: /weekly/thinking_11
 title: thinking 11
 updated: 2024-10-05
