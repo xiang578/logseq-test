@@ -1,11 +1,11 @@
 ---
 public: true
-file: [Pattern recognition and machine learning_2006_Bishop.pdf](file:///Users/xry/Dropbox/zotero-lib/Pattern recognition and machine learning_2006_Bishop.pdf)
-file-path: file:///Users/xry/Documents/syncthing/zotero-lib/Pattern recognition and machine learning_2006_Bishop.pdf
-title: hls__Pattern recognition and machine learning_2006_Bishop
+file: "[Pattern recognition and machine learning_2006_Bishop.pdf](file:///Users/xry/Dropbox/zotero-lib/Pattern recognition and machine learning_2006_Bishop.pdf)"
+file-path: "file:///Users/xry/Documents/syncthing/zotero-lib/Pattern recognition and machine learning_2006_Bishop.pdf"
+title: "hls__Pattern recognition and machine learning_2006_Bishop"
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
