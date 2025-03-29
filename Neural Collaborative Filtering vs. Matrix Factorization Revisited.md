@@ -1,11 +1,11 @@
 ---
-title: Neural Collaborative Filtering vs. Matrix Factorization Revisited
+title: "Neural Collaborative Filtering vs. Matrix Factorization Revisited"
 public: true
 tags:
-  - Paper
-  - CTR
-date: 2024-10-05
-updated: 2024-10-05
+  - "Paper"
+  - "CTR"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
