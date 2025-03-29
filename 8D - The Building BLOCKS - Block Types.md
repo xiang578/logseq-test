@@ -1,15 +1,14 @@
 ---
 tags:
-- course
+  - course
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/06
+  - 2024/07/06
 permalink: note/magical_academic_note_taking_8d
 title: 8D - The Building BLOCKS - Block Types
 updated: 2025-03-23
-toc: true
 mathjax: true
 ---
 
