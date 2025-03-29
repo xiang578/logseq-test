@@ -1,10 +1,10 @@
 ---
 public: true
 alias:
-- 持续学习
-- Incremental Learning
-- Continuous Learning
-- 增量学习
+  - 持续学习
+  - Incremental Learning
+  - Continuous Learning
+  - 增量学习
 title: Life Long Learning
 tags:
 date: 2024-10-05
