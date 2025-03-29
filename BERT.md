@@ -1,11 +1,11 @@
 ---
 title: BERT
 tags:
-- Algorithm
-- Paper
-- Google
+  - Algorithm
+  - Paper
+  - Google
 alias:
-- Bidirectional Encoder Representations from Transformers
+  - Bidirectional Encoder Representations from Transformers
 public: true
 date: 2024-10-05
 updated: 2024-12-19
