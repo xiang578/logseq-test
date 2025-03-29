@@ -1,15 +1,14 @@
 ---
 tags:
-- creator
+  - creator
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/05/25
+  - 2024/05/25
 permalink: note/soren_bjornstad
 title: Soren Bjornstad
 updated: 2024-12-26
-toc: true
 mathjax: true
 ---
 
