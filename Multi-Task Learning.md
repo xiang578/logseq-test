@@ -1,10 +1,10 @@
 ---
 title: Multi-Task Learning
 tags:
-- Algorithm
+  - Algorithm
 public: true
 alias:
-- 多任务学习
+  - 多任务学习
 date: 2024-10-05
 updated: 2025-01-07
 toc: true
