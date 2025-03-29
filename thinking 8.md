@@ -3,11 +3,11 @@ public: true
 categories: 随想集
 ptitile: 【随想集】 8 新键盘
 date:
-- 2024/02/04
+  - 2024/02/04
 tags:
-- weekly
-- ZSA Voyager
-- Fliggy
+  - weekly
+  - ZSA Voyager
+  - Fliggy
 permalink: /weekly/thinking-8
 title: thinking 8
 updated: 2024-10-05
