@@ -1,30 +1,30 @@
 ---
 tags:
-- Google
-- Paper
+  - Google
+  - Paper
 date:
-- 2021/10/26
+  - 2021/10/26
 doi: 10.1145/3459637.3481916
 title: @ETA Prediction with Graph Neural Networks in Google Maps
 url: http://arxiv.org/abs/2108.11482
 authors:
-- Peter W. Battaglia
-- Luis Perez
-- Ang Li
-- Petar Veličković
-- Zhongwen Xu
-- Vishal Gupta
-- David Wong
-- Austin Derrow-Pinion
-- Xueying Guo
-- Oliver Lange
-- Brett Wiltshire
-- Seongjae Lee
-- Yujia Li
-- Jennifer She
-- Marc Nunkesser
-- Alvaro Sanchez-Gonzalez
-- Todd Hester
+  - Peter W. Battaglia
+  - Luis Perez
+  - Ang Li
+  - Petar Veličković
+  - Zhongwen Xu
+  - Vishal Gupta
+  - David Wong
+  - Austin Derrow-Pinion
+  - Xueying Guo
+  - Oliver Lange
+  - Brett Wiltshire
+  - Seongjae Lee
+  - Yujia Li
+  - Jennifer She
+  - Marc Nunkesser
+  - Alvaro Sanchez-Gonzalez
+  - Todd Hester
 links: [Local library](zotero://select/library/items/5AUNTEZW), [Web library](https://www.zotero.org/users/4911197/items/5AUNTEZW)
 public: true
 updated: 2024-10-05
