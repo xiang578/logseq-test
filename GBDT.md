@@ -3,7 +3,7 @@ title: GBDT
 type: Algorithm
 public: true
 alias:
-- Gradient Boosting Decision Tree
+  - Gradient Boosting Decision Tree
 tags:
 date: 2024-10-05
 updated: 2024-10-05
