@@ -1,15 +1,15 @@
 ---
 alias:
-  - 重排
+  - "重排"
 public: true
-categories: 随手记
+categories: "随手记"
 toc: true
 date:
-  - 2024/05/29
-permalink: note/rerank
-title: ReRank
+  - "2024/05/29"
+permalink: "note/rerank"
+title: "ReRank"
 tags:
-updated: 2024-10-05
+updated: "2024-10-05"
 mathjax: true
 ---
 
