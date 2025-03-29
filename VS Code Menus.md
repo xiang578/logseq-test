@@ -1,16 +1,15 @@
 ---
 tags:
-- VS Code
+  - VS Code
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/21
+  - 2024/06/21
 deck: being/VSC
 permalink: note/vs_code_menus
 title: VS Code Menus
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
