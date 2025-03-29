@@ -1,19 +1,19 @@
 ---
 date:
-- 2021/03/28
+  - 2021/03/28
 tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Information Retrieval
-- Computer Science - Machine Learning
-- Paper
-- AAAI/2021
-- Transformer
-- Time Series Forecasting
+  - Computer Science - Artificial Intelligence
+  - Computer Science - Information Retrieval
+  - Computer Science - Machine Learning
+  - Paper
+  - AAAI/2021
+  - Transformer
+  - Time Series Forecasting
 authors: Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang
 links: [Local library](zotero://select/library/items/ZGQCPLIR), [Web library](https://www.zotero.org/users/4911197/items/ZGQCPLIR)
 title: @Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
 alias:
-- Informer
+  - Informer
 deck: being/paper/Informer
 public: true
 updated: 2024-10-05
