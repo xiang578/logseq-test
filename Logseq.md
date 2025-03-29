@@ -1,16 +1,15 @@
 ---
 tags:
-- Logseq
-- Workflow
+  - Logseq
+  - Workflow
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/16
+  - 2024/06/16
 permalink: note/logseq
 title: Logseq
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
