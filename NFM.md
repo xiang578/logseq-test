@@ -2,8 +2,8 @@
 title: NFM
 public: true
 tags:
-- Algorithm
-- Paper
+  - Algorithm
+  - Paper
 deck: being/paper/NFM
 date: 2024-10-05
 updated: 2024-10-05
