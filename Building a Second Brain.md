@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- BASB
+  - BASB
 title: Building a Second Brain
 tags:
 date: 2024-10-05
