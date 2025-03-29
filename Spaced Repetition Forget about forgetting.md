@@ -2,10 +2,10 @@
 public: true
 url: https://www.youtube.com/watch?v=9eP8Bq9x5y
 tags:
-- Video
-- Spaced Repetition
-- Anki
-- RemNote
+  - Video
+  - Spaced Repetition
+  - Anki
+  - RemNote
 title: Spaced Repetition Forget about forgetting
 date: 2024-10-05
 updated: 2024-10-05
