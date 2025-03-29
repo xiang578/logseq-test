@@ -1,6 +1,6 @@
 ---
 tags:
-- Embedding
+  - Embedding
 public: true
 url: [推荐系统 embedding 技术实践总结 - 知乎](https://zhuanlan.zhihu.com/p/143763320)
 title: 推荐系统 embedding 技术实践总结
