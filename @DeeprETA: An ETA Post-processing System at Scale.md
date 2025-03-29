@@ -1,16 +1,16 @@
 ---
 links: [Local library](zotero://select/library/items/TQ8KGFHV), [Web library](https://www.zotero.org/users/4911197/items/TQ8KGFHV)
 authors:
-- Xinyu Hu
-- Tanmay Binaykiya
-- Eric Frank
-- Olcay Cirit
+  - Xinyu Hu
+  - Tanmay Binaykiya
+  - Eric Frank
+  - Olcay Cirit
 tags:
-- Paper
-- 已读
-- 2023
+  - Paper
+  - 已读
+  - 2023
 date:
-- 2022/06/05
+  - 2022/06/05
 title: @DeeprETA: An ETA Post-processing System at Scale
 public: true
 updated: 2024-10-05
