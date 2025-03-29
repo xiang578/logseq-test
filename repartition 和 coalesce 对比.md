@@ -1,11 +1,11 @@
 ---
 tags:
-  - Spark
-deck: being/Spark
+  - "Spark"
+deck: "being/Spark"
 public: true
-title: repartition 和 coalesce 对比
-date: 2024-10-05
-updated: 2024-10-05
+title: "repartition 和 coalesce 对比"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
