@@ -1,16 +1,15 @@
 ---
 tags:
-- web
-- 朴禅郑仁
+  - web
+  - 朴禅郑仁
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/21
+  - 2024/07/21
 permalink: note/jk_65d600de9185c305d1a4228c
 title: @我如何使用 Obsidian（第 01 篇）
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
