@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- 即时配送
+  - 即时配送
 title: on-demand food delivery
 tags:
 date: 2024-10-05
