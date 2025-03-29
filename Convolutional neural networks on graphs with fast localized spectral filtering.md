@@ -2,7 +2,7 @@
 public: true
 type: Paper
 alias:
-- ChebyNet
+  - ChebyNet
 title: Convolutional neural networks on graphs with fast localized spectral filtering
 tags:
 date: 2024-10-05
