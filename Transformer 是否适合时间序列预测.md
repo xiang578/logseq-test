@@ -1,8 +1,8 @@
 ---
 public: true
 tags:
-- 时间序列预测
-- Time Series Transformer
+  - 时间序列预测
+  - Time Series Transformer
 title: Transformer 是否适合时间序列预测
 date: 2024-10-05
 updated: 2024-10-05
