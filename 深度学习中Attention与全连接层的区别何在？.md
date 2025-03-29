@@ -2,8 +2,8 @@
 public: true
 url: https://www.zhihu.com/question/320174043
 tags:
-- Attention
-- DNN
+  - Attention
+  - DNN
 title: 深度学习中Attention与全连接层的区别何在？
 date: 2024-10-05
 updated: 2024-10-05
