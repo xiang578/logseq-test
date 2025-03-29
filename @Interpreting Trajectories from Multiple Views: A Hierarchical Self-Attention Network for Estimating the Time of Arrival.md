@@ -3,16 +3,16 @@ url: https://dl.acm.org/doi/10.1145/3534678.3539051
 authors: Zebin Chen, Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao
 doi: 10.1145/3534678.3539051
 tags:
-- KDD/2022
-- didi
-- ETA
+  - KDD/2022
+  - didi
+  - ETA
 links: [Local library](zotero://select/library/items/N455U6CR), [Web library](https://www.zotero.org/users/4911197/items/N455U6CR)
 title: @Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival
 public: true
 date:
-- 2022/08/14
+  - 2022/08/14
 alias:
-- HierETA
+  - HierETA
 isbn: 978-1-4503-9385-0
 updated: 2024-10-05
 toc: true
