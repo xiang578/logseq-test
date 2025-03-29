@@ -1,8 +1,8 @@
 ---
 public: true
 tags:
-- 简悦
-- Logseq
+  - 简悦
+  - Logseq
 title: 简悦和 Logseq 联动
 date: 2024-10-05
 updated: 2024-10-05
