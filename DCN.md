@@ -1,8 +1,8 @@
 ---
 title: DCN
 tags:
-- Algorithm
-- Paper
+  - Algorithm
+  - Paper
 public: true
 date: 2024-10-05
 updated: 2024-10-05
