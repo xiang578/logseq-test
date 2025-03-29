@@ -3,7 +3,7 @@ title: PinSAGE
 public: true
 type: Paper
 alias:
-- Graph Convolutional Neural Networks forWeb-Scale Recommender Systems
+  - Graph Convolutional Neural Networks forWeb-Scale Recommender Systems
 tags:
 date: 2024-10-05
 updated: 2024-10-05
