@@ -1,9 +1,9 @@
 ---
-title: 基于 MSE 的 GBDT 推导
+title: "基于 MSE 的 GBDT 推导"
 public: true
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
