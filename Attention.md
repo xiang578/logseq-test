@@ -1,7 +1,7 @@
 ---
 title: Attention
 tags:
-- Algorithm
+  - Algorithm
 public: true
 deck: being/NLP/Attention
 date: 2024-10-05
