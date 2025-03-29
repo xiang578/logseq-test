@@ -1,10 +1,10 @@
 ---
-url: https://git-lfs.com/
+url: "https://git-lfs.com/"
 public: true
-title: Git Large File Storage
+title: "Git Large File Storage"
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
