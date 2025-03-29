@@ -2,7 +2,7 @@
 title: How to Read a Paper Efficiently By Prof. Pete Carr
 url: https://www.youtube.com/watch?v=IeaD0ZaUJ3Y
 tags:
-- how to read a paper
+  - how to read a paper
 public: true
 date: 2024-10-05
 updated: 2024-10-05
