@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- Spatio-Temporal Graph Convolutional Networks A Deep Learning Framework for Trafﬁc Forecasting
+  - Spatio-Temporal Graph Convolutional Networks A Deep Learning Framework for Trafﬁc Forecasting
 title: STGCN
 tags:
 date: 2024-10-05
