@@ -2,16 +2,16 @@
 url: https://openreview.net/forum?id=0EXmFzUn5I
 library-catalog: openreview.net
 tags:
-- ICLR/2022
-- Paper
+  - ICLR/2022
+  - Paper
 original-title: Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting
 links: [Local library](zotero://select/library/items/35ENHCF5), [Web library](https://www.zotero.org/users/4911197/items/35ENHCF5)
 title: @Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting
 public: true
 date:
-- 2022/03/16
+  - 2022/03/16
 alias:
-- Pyraformer
+  - Pyraformer
 language: en
 updated: 2024-10-05
 toc: true
