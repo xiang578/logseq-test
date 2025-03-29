@@ -1,8 +1,8 @@
 ---
 tags:
-- Article
+  - Article
 author:
-- Andy Matuschak
+  - Andy Matuschak
 url: https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX
 public: true
 title: Taxonomy of note types
