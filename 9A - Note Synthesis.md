@@ -1,16 +1,15 @@
 ---
 tags:
-- course
-- Roam
+  - course
+  - Roam
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/06
+  - 2024/07/06
 permalink: note/magical_academic_note_taking_9a
 title: 9A - Note Synthesis
 updated: 2025-03-23
-toc: true
 mathjax: true
 ---
 
