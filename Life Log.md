@@ -1,7 +1,7 @@
 ---
 tags:
-- Workflow
-- @笔记的方法
+  - Workflow
+  - @笔记的方法
 public: true
 title: Life Log
 date: 2024-10-05
