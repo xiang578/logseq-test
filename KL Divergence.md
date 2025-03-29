@@ -2,11 +2,11 @@
 title: KL Divergence
 public: true
 tags:
-- Mathematics
+  - Mathematics
 alias:
-- Kullback-Leibler Divergence
-- 相对熵
-- relative entropy
+  - Kullback-Leibler Divergence
+  - 相对熵
+  - relative entropy
 deck: being
 date: 2024-10-05
 updated: 2025-03-09
