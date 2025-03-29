@@ -1,6 +1,6 @@
 ---
 tags:
-- Optimization
+  - Optimization
 public: true
 title: AdamW
 date: 2024-10-05
