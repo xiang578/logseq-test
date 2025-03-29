@@ -1,9 +1,9 @@
 ---
 title: Word Embedding
 tags:
-- Algorithm
+  - Algorithm
 alias:
-- 词向量
+  - 词向量
 public: true
 date: 2024-10-05
 updated: 2024-10-05
