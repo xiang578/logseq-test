@@ -1,10 +1,10 @@
 ---
 public: true
 tags:
-  - Spark
-title: Pair RDD
-date: 2024-10-05
-updated: 2024-10-05
+  - "Spark"
+title: "Pair RDD"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
