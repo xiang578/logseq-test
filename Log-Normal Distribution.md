@@ -1,10 +1,10 @@
 ---
 public: true
 tags:
-- Mathematics
+  - Mathematics
 alias:
-- logarithmic normal distribution
-- 对数正态分布
+  - logarithmic normal distribution
+  - 对数正态分布
 title: Log-Normal Distribution
 date: 2024-10-05
 updated: 2024-10-05
