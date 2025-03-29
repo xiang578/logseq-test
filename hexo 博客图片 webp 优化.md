@@ -1,18 +1,17 @@
 ---
 tags:
-- hexo
-- blog
-- webp
-- qcloud
+  - hexo
+  - blog
+  - webp
+  - qcloud
 public: true
 categories: 不老阁
 toc: true
 date:
-- 2024/06/23
+  - 2024/06/23
 permalink: post/hexo_photo_webp
 title: hexo 博客图片 webp 优化
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
