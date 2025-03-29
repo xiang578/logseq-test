@@ -1,18 +1,17 @@
 ---
 tags:
-- web
-- zhihu
-- Gee Law
-- OneNote
+  - web
+  - zhihu
+  - Gee Law
+  - OneNote
 public: true
 categories: 随手记
 toc: true
 date:
-- 2020/10/16
+  - 2020/10/16
 permalink: note/zhihu_418933529_1525594474
 title: @一点微小的 OneNote 使用经验
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
