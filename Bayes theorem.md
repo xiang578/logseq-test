@@ -1,8 +1,8 @@
 ---
 alias:
-- 贝叶斯定理
+  - 贝叶斯定理
 tags:
-- Mathematics
+  - Mathematics
 public: true
 title: Bayes theorem
 date: 2024-10-05
