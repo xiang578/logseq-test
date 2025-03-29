@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Algorithm
+  - Algorithm
 title: teacher forcing
 date: 2024-10-05
 updated: 2024-10-05
