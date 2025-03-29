@@ -2,8 +2,8 @@
 public: true
 deck: being/Spark
 tags:
-- Spark
-- RDD
+  - Spark
+  - RDD
 title: RDD 持久化
 date: 2024-10-05
 updated: 2024-10-05
