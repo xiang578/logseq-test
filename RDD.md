@@ -1,9 +1,9 @@
 ---
 title: RDD
 alias:
-- Resilient Distributed Dataset
+  - Resilient Distributed Dataset
 tags:
-- Spark
+  - Spark
 deck: Computer/Spark
 public: true
 date: 2024-10-05
