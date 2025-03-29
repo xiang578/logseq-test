@@ -1,8 +1,8 @@
 ---
 tags:
-- Article
-- Ein Verne
-- how to read a book
+  - Article
+  - Ein Verne
+  - how to read a book
 public: true
 url: http://einverne.github.io/post/2021/01/my-method-to-take-notes-using-zettelkasten-and-obsidian.html
 title: @我的笔记法（借助 Zettelkasten 和 Obsidian）
