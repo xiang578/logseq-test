@@ -2,7 +2,7 @@
 title: Tanh
 public: true
 tags:
-- Mathematics
+  - Mathematics
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
