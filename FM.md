@@ -1,12 +1,12 @@
 ---
 type: Paper
 tags:
-- Paper
-- Algorithm
+  - Paper
+  - Algorithm
 public: true
 deck: being/FM
 alias:
-- 因子分解机
+  - 因子分解机
 title: FM
 date: NaN-NaN-NaN
 updated: NaN-NaN-NaN
