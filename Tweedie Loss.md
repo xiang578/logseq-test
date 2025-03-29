@@ -1,6 +1,6 @@
 ---
 tags:
-- Loss Function
+  - Loss Function
 public: true
 deck: being/math
 title: Tweedie Loss
