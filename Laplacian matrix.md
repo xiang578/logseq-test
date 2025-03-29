@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- 拉普拉斯矩阵
+  - 拉普拉斯矩阵
 title: Laplacian matrix
 tags:
 date: 2024-10-05
