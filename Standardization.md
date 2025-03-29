@@ -1,9 +1,9 @@
 ---
 title: Standardization
 alias:
-- 标准化
+  - 标准化
 tags:
-- Algorithm
+  - Algorithm
 public: true
 date: 2024-10-05
 updated: 2024-10-05
