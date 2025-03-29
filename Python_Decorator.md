@@ -1,7 +1,7 @@
 ---
 title: Python/Decorator
 alias:
-- 装饰器
+  - 装饰器
 public: true
 tags:
 date: 2024-10-05
