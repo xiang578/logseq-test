@@ -2,11 +2,11 @@
 url: https://andymatuschak.org/prompts
 public: true
 tags:
-- Andy Matuschak
-- Article
-- Spaced Repetition
+  - Andy Matuschak
+  - Article
+  - Spaced Repetition
 date:
-- 2022/10/28
+  - 2022/10/28
 deck: being/learning/spaced_repetition
 title: @How to write good prompts: using spaced repetition to create understanding
 updated: 2025-03-18
