@@ -2,21 +2,21 @@
 public: true
 links: [Local library](zotero://select/library/items/YGB7L7C9), [Web library](https://www.zotero.org/users/4911197/items/YGB7L7C9)
 authors:
-- Haixu Wu
-- Jiehui Xu
-- Jianmin Wang
-- Mingsheng Long
+  - Haixu Wu
+  - Jiehui Xu
+  - Jianmin Wang
+  - Mingsheng Long
 tags:
-- Paper
-- Time Series Transformer
-- Time Series Forecasting
-- autocorrelation
-- NeurIPS/2021
+  - Paper
+  - Time Series Transformer
+  - Time Series Forecasting
+  - autocorrelation
+  - NeurIPS/2021
 date:
-- 2022/01/07
+  - 2022/01/07
 title: @Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
 alias:
-- Autoformer
+  - Autoformer
 updated: 2024-10-05
 toc: true
 mathjax: true
