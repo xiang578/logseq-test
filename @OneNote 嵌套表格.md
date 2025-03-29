@@ -1,18 +1,17 @@
 ---
 tags:
-- web
-- Workflow
-- OneNote
-- Bilibili
+  - web
+  - Workflow
+  - OneNote
+  - Bilibili
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/15
+  - 2024/06/15
 permalink: note/bi_BV1zi4y1u7Z5
 title: @OneNote 嵌套表格
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
