@@ -1,8 +1,8 @@
 ---
 tags:
-- Software
-- MacOS
-- 李自然
+  - Software
+  - MacOS
+  - 李自然
 public: true
 title: Effie
 date: 2024-10-05
