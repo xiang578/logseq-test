@@ -1,14 +1,14 @@
 ---
 tags:
-  - docker
-  - umami
+  - "docker"
+  - "umami"
 public: true
-permalink: note/umami-docker
-categories: 随手记
+permalink: "note/umami-docker"
+categories: "随手记"
 date:
-  - 2023/05/07
-title: 从 Umami Cloud 迁移到自建 Umami
-updated: 2024-10-05
+  - "2023/05/07"
+title: "从 Umami Cloud 迁移到自建 Umami"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
