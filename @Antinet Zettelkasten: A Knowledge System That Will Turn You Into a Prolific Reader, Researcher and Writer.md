@@ -1,6 +1,6 @@
 ---
 tags:
-- Book
+  - Book
 public: true
 title: @Antinet Zettelkasten: A Knowledge System That Will Turn You Into a Prolific Reader, Researcher and Writer
 date: 2024-10-05
