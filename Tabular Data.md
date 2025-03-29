@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- 表格类数据
+  - 表格类数据
 title: Tabular Data
 tags:
 date: 2024-10-05
