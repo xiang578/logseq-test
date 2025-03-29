@@ -1,6 +1,6 @@
 ---
 tags:
-- Algorithm
+  - Algorithm
 public: true
 title: GMM
 date: 2024-10-05
