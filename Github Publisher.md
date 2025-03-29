@@ -11,6 +11,7 @@ permalink: note/github-publisher.html
 lastMod: 2025-03-29
 toc: "true"
 ---
+
 原来一直用 Logseq 写笔记，等了好久也没有等到一个可以把笔记导出成 md 文章的插件。昨天晚上看其他人博客的时，发现 Obsidian 插件 [Gihub Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)，可以通过内建的命令把笔记上传到指定的 github 仓库，从而实现使用 Obsidian 管理 blog 文章。
 
 <!-- more -->
