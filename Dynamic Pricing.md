@@ -1,6 +1,6 @@
 ---
 alias:
-- 动态定价
+  - 动态定价
 public: true
 title: Dynamic Pricing
 tags:
