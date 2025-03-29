@@ -1,11 +1,11 @@
 ---
-title: 区间 DP
+title: "区间 DP"
 public: true
 tags:
-  - Competitive Programming
-  - Dynamic Programming
-date: 2024-10-05
-updated: 2024-10-05
+  - "Competitive Programming"
+  - "Dynamic Programming"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
