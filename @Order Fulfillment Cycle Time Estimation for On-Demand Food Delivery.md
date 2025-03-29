@@ -4,18 +4,18 @@ pages: 2571-2580
 place: Virtual Event CA USA
 library-catalog: DOI.org (Crossref)
 authors:
-- Lin Zhu
-- Wei Yu
-- Kairong Zhou
-- Xing Wang
-- Wenxing Feng
-- Pengyu Wang
-- Ning Chen
-- Pei Lee
+  - Lin Zhu
+  - Wei Yu
+  - Kairong Zhou
+  - Xing Wang
+  - Wenxing Feng
+  - Pengyu Wang
+  - Ning Chen
+  - Pei Lee
 doi: 10.1145/3394486.3403307
 tags:
-- ETA
-- Paper
+  - ETA
+  - Paper
 conference-name: KDD '20: The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 original-title: Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery
 links: [Local library](zotero://select/library/items/7T6G7NAC), [Web library](https://www.zotero.org/users/4911197/items/7T6G7NAC)
@@ -23,12 +23,12 @@ title: @Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery
 publisher: ACM
 public: true
 date:
-- 2020/08/23
+  - 2020/08/23
 access-date: 2022-09-19T07:15:17Z
 language: en
 proceedings-title: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
 item-type:
-- conferencePaper
+  - conferencePaper
 isbn: 978-1-4503-7998-4
 updated: 2024-10-05
 toc: true
