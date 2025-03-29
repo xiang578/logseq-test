@@ -1,12 +1,12 @@
 ---
 title: DIN
 alias:
-- Deep Interest Network for Click-Through Rate Prediction
-- @Deep Interest Network for Click-Through Rate Prediction
+  - Deep Interest Network for Click-Through Rate Prediction
+  - @Deep Interest Network for Click-Through Rate Prediction
 tags:
-- Alibaba
-- CTR
-- Attention
+  - Alibaba
+  - CTR
+  - Attention
 public: true
 date: 2024-10-05
 updated: 2025-01-19
