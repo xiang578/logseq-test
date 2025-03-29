@@ -3,28 +3,28 @@ short-title: FiBiNET
 url: http://arxiv.org/abs/1905.09433
 publication-title: "arXiv:1905.09433 [cs, stat]"
 authors:
-- Tongwen Huang
-- Zhiqi Zhang
-- Junlin Zhang
+  - Tongwen Huang
+  - Zhiqi Zhang
+  - Junlin Zhang
 tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Machine Learning
-- Statistics - Machine Learning
-- CTR
-- Paper
+  - Computer Science - Artificial Intelligence
+  - Computer Science - Machine Learning
+  - Statistics - Machine Learning
+  - CTR
+  - Paper
 original-title: FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
 links: [Local library](zotero://select/library/items/IDX4QJT8), [Web library](https://www.zotero.org/users/4911197/items/IDX4QJT8)
 title: @FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
 deck: being/Paper/FiBiNET
 public: true
 date:
-- 2019/05/22
+  - 2019/05/22
 alias:
-- FiBiNET
+  - FiBiNET
 access-date: 2019-08-30T14:44:32Z
 language: en
 item-type:
-- journalArticle
+  - journalArticle
 updated: 2024-10-05
 toc: true
 mathjax: true
