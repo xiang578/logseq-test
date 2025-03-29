@@ -1,8 +1,8 @@
 ---
 alias:
-- 权重衰减
+  - 权重衰减
 tags:
-- Machine Learning trick
+  - Machine Learning trick
 public: true
 title: Weight Decay
 date: 2024-10-05
