@@ -1,8 +1,8 @@
 ---
 title: Web Traffic Time Series Forecasting
 tags:
-- Algorithm
-- Kaggle
+  - Algorithm
+  - Kaggle
 public: true
 date: 2024-10-05
 updated: 2024-10-05
