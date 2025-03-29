@@ -8,7 +8,7 @@ tags:
 categories: 随手记
 toc: "true"
 permalink: note/github-publisher.html
-lastMod: 2025-03-29
+updated: 2025-03-29
 toc: true
 mathjax: true
 ---
