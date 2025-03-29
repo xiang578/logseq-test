@@ -2,17 +2,17 @@
 pages: 10
 library-catalog: Zotero
 authors:
-- Scott M Lundberg
-- Su-In Lee
+  - Scott M Lundberg
+  - Su-In Lee
 original-title: A Unified Approach to Interpreting Model Predictions
 links: [Local library](zotero://select/library/items/6PRXLT8R), [Web library](https://www.zotero.org/users/4911197/items/6PRXLT8R)
 title: @A Unified Approach to Interpreting Model Predictions
 public: true
 alias:
-- SHAP
+  - SHAP
 language: en
 item-type:
-- journalArticle
+  - journalArticle
 tags:
 date: 2024-10-05
 updated: 2024-10-05
