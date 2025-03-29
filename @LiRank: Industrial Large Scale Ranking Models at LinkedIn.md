@@ -1,6 +1,6 @@
 ---
 tags:
-- Paper
+  - Paper
 deck: being/paper/LiRank
 public: true
 title: @LiRank: Industrial Large Scale Ranking Models at LinkedIn
