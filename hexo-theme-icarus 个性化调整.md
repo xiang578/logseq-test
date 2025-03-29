@@ -1,7 +1,7 @@
 ---
 tags:
-- hexo
-- hexo-theme-icarus
+  - hexo
+  - hexo-theme-icarus
 public: true
 categories: 不老阁
 title: hexo-theme-icarus 个性化调整
