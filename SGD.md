@@ -1,10 +1,10 @@
 ---
 title: SGD
 alias:
-- 随机梯度下降法
+  - 随机梯度下降法
 public: true
 tags:
-- Algorithm
+  - Algorithm
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
