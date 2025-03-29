@@ -1,10 +1,10 @@
 ---
 alias:
-- 快速傅里叶变换
+  - 快速傅里叶变换
 public: true
 tags:
-- Mathematics
-- Algorithm
+  - Mathematics
+  - Algorithm
 title: FFT
 date: 2024-10-05
 updated: 2024-10-05
