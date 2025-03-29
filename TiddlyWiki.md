@@ -1,7 +1,7 @@
 ---
 title: TiddlyWiki
 tags:
-- Tool
+  - Tool
 public: true
 date: 2024-10-05
 updated: 2024-10-05
