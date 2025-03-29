@@ -1,9 +1,9 @@
 ---
 public: true
-title: Mac/重置隐私设置
+title: "Mac/重置隐私设置"
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
