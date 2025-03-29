@@ -1,7 +1,7 @@
 ---
 tags:
-- Attention
-- Paper
+  - Attention
+  - Paper
 public: true
 title: Neural Machine Translation by Jointly Learning to Align and Translate
 date: 2024-10-05
