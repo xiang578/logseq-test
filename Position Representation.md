@@ -1,7 +1,7 @@
 ---
 public: true
 alias:
-- 位置编码
+  - 位置编码
 title: Position Representation
 tags:
 date: 2024-10-05
