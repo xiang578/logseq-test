@@ -1,14 +1,14 @@
 ---
 tags:
-- Paper
+  - Paper
 date: 2023
 public: true
 title: @PRML Note 前十一章
 item-type:
-- document
+  - document
 original-title: PRML Note 前十一章
 authors:
-- 淡蓝小点
+  - 淡蓝小点
 links: [Local library](zotero://select/library/items/CGS726ST), [Web library](https://www.zotero.org/users/4911197/items/CGS726ST)
 updated: 2024-10-05
 toc: true
