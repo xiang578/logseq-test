@@ -1,6 +1,6 @@
 ---
 alias:
-- 可分离卷积
+  - 可分离卷积
 public: true
 title: Separable Convolution
 tags:
