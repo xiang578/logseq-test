@@ -1,17 +1,17 @@
 ---
 date:
-- 2022/03/07
+  - 2022/03/07
 tags:
-- Statistics - Machine Learning
-- Paper
-- Time Series Transformer
-- Transformer
-- Survey
-- Computer Science - Artificial Intelligence
-- DAMO Academy
-- Electrical Engineering and Systems Science - Signal Processing
-- Time Series Forecasting
-- Computer Science - Machine Learning
+  - Statistics - Machine Learning
+  - Paper
+  - Time Series Transformer
+  - Transformer
+  - Survey
+  - Computer Science - Artificial Intelligence
+  - DAMO Academy
+  - Electrical Engineering and Systems Science - Signal Processing
+  - Time Series Forecasting
+  - Computer Science - Machine Learning
 authors: Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, Liang Sun
 links: [Local library](zotero://select/library/items/H62QARE9), [Web library](https://www.zotero.org/users/4911197/items/H62QARE9)
 title: @Transformers in Time Series: A Survey
