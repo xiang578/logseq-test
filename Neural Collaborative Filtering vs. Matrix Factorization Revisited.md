@@ -2,8 +2,8 @@
 title: Neural Collaborative Filtering vs. Matrix Factorization Revisited
 public: true
 tags:
-- Paper
-- CTR
+  - Paper
+  - CTR
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
