@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Algorithm
+  - Algorithm
 title: CTR
 date: 2024-10-05
 updated: 2025-01-11
