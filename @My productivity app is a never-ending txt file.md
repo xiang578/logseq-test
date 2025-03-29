@@ -1,18 +1,17 @@
 ---
 tags:
-- web
-- Workflow
+  - web
+  - Workflow
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/05/25
+  - 2024/05/25
 permalink: note/productivity_text_file
 alias:
-- My productivity app for the past 12 years has been a single txt file
+  - My productivity app for the past 12 years has been a single txt file
 title: @My productivity app is a never-ending txt file
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
