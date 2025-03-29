@@ -1,7 +1,7 @@
 ---
 alias:
-- DP
-- 动态规划
+  - DP
+  - 动态规划
 public: true
 title: Dynamic Programming
 tags:
