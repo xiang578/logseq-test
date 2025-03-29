@@ -1,8 +1,8 @@
 ---
 public: true
 tags:
-- Batch Normalization
-- Layer Normalization
+  - Batch Normalization
+  - Layer Normalization
 deck: being/Normalization
 title: BN 和 LN
 date: 2024-10-05
