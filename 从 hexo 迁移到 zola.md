@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- zola
+  - zola
 title: 从 hexo 迁移到 zola
 date: 2024-10-05
 updated: 2024-10-05
