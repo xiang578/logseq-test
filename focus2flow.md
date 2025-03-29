@@ -1,15 +1,14 @@
 ---
 tags:
-- creator
+  - creator
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/07
+  - 2024/07/07
 permalink: note/soren_focus2flow
 title: focus2flow
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
