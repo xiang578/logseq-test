@@ -1,14 +1,14 @@
 ---
 title: @Effective learning Twenty rules of formulating knowledge
 alias:
-- 20 rules of formulating knowledge in learning
+  - 20 rules of formulating knowledge in learning
 public: true
 tags:
-- Article
-- Spaced Repetition
-- web
+  - Article
+  - Spaced Repetition
+  - web
 author:
-- Piotr Wozniak
+  - Piotr Wozniak
 url: https://www.supermemo.com/en/archives1990-2015/articles/20rules, http://super-memory.com/articles/20rules.htm
 deck: : being/learning/spaced_repetition
 date: 2024-10-05
