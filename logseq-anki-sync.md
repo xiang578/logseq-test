@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Logseq plugin
+  - Logseq plugin
 title: logseq-anki-sync
 date: 2024-10-05
 updated: 2024-10-05
