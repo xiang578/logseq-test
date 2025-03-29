@@ -1,15 +1,14 @@
 ---
 tags:
-- web
+  - web
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/17
+  - 2024/07/17
 permalink: note/zh_343396567
 title: @如何评价YJango的《学习观》系列？该如何改进？
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
