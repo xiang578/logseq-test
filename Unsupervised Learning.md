@@ -1,6 +1,6 @@
 ---
 alias:
-- 无监督学习
+  - 无监督学习
 public: true
 title: Unsupervised Learning
 tags:
