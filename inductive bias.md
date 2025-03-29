@@ -1,9 +1,9 @@
 ---
 title: inductive bias
 tags:
-- Algorithm
+  - Algorithm
 alias:
-- 归纳偏置
+  - 归纳偏置
 public: true
 date: 2024-10-05
 updated: 2024-10-05
