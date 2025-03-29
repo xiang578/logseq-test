@@ -2,24 +2,24 @@
 url: http://arxiv.org/abs/1704.05194
 publication-title: "arXiv:1704.05194 [cs, stat]"
 authors:
-- Kun Gai
-- Xiaoqiang Zhu
-- Han Li
-- Kai Liu
-- Zhe Wang
+  - Kun Gai
+  - Xiaoqiang Zhu
+  - Han Li
+  - Kai Liu
+  - Zhe Wang
 tags:
-- Computer Science - Machine Learning
-- Statistics - Machine Learning
-- Paper
-- Alibaba
+  - Computer Science - Machine Learning
+  - Statistics - Machine Learning
+  - Paper
+  - Alibaba
 original-title: Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction
 links: [Local library](zotero://select/library/items/CUMRR2YN), [Web library](https://www.zotero.org/users/4911197/items/CUMRR2YN)
 title: @Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction
 public: true
 date:
-- 2017/04/18
+  - 2017/04/18
 alias:
-- MLR
+  - MLR
 updated: 2024-10-05
 toc: true
 mathjax: true
