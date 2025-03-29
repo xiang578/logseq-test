@@ -2,7 +2,7 @@
 title: Multi-Head Attention
 public: true
 tags:
-- Transformer
+  - Transformer
 date: 2024-10-05
 updated: 2024-11-01
 toc: true
