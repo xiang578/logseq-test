@@ -1,14 +1,14 @@
 ---
 title: @Augmenting Long-term Memory
 tags:
-- Article
-- Spaced Repetition
-- Anki
-- Michael Nielsen
+  - Article
+  - Spaced Repetition
+  - Anki
+  - Michael Nielsen
 public: true
 url: https://augmentingcognition.com/ltm.html
 date:
-- 2020/09/08
+  - 2020/09/08
 updated: 2024-10-05
 toc: true
 mathjax: true
