@@ -1,17 +1,16 @@
 ---
 tags:
-- Algorithm
+  - Algorithm
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/09
+  - 2024/06/09
 permalink: note/pointer_network
 alias:
-- Pointer Net
+  - Pointer Net
 title: Pointer Network
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
