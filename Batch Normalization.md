@@ -1,6 +1,6 @@
 ---
 tags:
-- Algorithm
+  - Algorithm
 public: true
 deck: being/Normalization
 title: Batch Normalization
