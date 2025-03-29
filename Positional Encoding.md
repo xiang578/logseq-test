@@ -1,10 +1,10 @@
 ---
 tags:
-- Algorithm
-- Position Representation
+  - Algorithm
+  - Position Representation
 public: true
 alias:
-- Position Encoding
+  - Position Encoding
 title: Positional Encoding
 date: 2024-10-05
 updated: 2024-10-05
