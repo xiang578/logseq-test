@@ -2,10 +2,10 @@
 title: @How to Take Smart Notes
 public: true
 tags:
-- Book
-- Zettelkasten
+  - Book
+  - Zettelkasten
 alias:
-- @卡片笔记写作法
+  - @卡片笔记写作法
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
