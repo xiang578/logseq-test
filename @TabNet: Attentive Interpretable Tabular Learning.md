@@ -1,21 +1,21 @@
 ---
 url: https://arxiv.org/abs/1908.07442v5
 authors:
-- Sercan O. Arik
-- Tomas Pfister
+  - Sercan O. Arik
+  - Tomas Pfister
 doi: 10.48550/arXiv.1908.07442
 tags:
-- Paper
-- 想读
-- Google
-- Tabular Data
+  - Paper
+  - 想读
+  - Google
+  - Tabular Data
 links: [Local library](zotero://select/library/items/B6MN3URL), [Web library](https://www.zotero.org/users/4911197/items/B6MN3URL)
 title: @TabNet: Attentive Interpretable Tabular Learning
 public: true
 date:
-- 2019/08/20
+  - 2019/08/20
 alias:
-- TabNet
+  - TabNet
 updated: 2024-10-05
 toc: true
 mathjax: true
