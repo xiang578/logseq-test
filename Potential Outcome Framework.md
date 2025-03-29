@@ -1,6 +1,6 @@
 ---
 tags:
-- Causal Inference
+  - Causal Inference
 public: true
 title: Potential Outcome Framework
 date: 2024-10-05
