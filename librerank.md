@@ -1,15 +1,14 @@
 ---
 tags:
-- web
+  - web
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/05/26
+  - 2024/05/26
 permalink: note/librerank
 title: librerank
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
