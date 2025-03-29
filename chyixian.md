@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- People
+  - People
 title: chyixian
 date: 2024-10-05
 updated: 2024-10-06
