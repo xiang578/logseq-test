@@ -1,16 +1,15 @@
 ---
 tags:
-- web
-- zhihu
+  - web
+  - zhihu
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/06/24
+  - 2024/06/24
 permalink: note/zh_354691424
 title: @厉害的 ACM 选手一定是优秀的程序员么?
 updated: 2024-10-05
-toc: true
 mathjax: true
 ---
 
