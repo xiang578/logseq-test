@@ -1,10 +1,10 @@
 ---
 public: true
-url: https://zhuanlan.zhihu.com/p/67832773
-title: bingo hong@时间序列预测方法总结
+url: "https://zhuanlan.zhihu.com/p/67832773"
+title: "bingo hong@时间序列预测方法总结"
 tags:
-date: 2024-10-05
-updated: 2024-10-05
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
