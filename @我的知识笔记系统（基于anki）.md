@@ -1,15 +1,14 @@
 ---
 tags:
-- web
+  - web
 public: true
 categories: 随手记
 toc: true
 date:
-- 2024/07/14
+  - 2024/07/14
 permalink: note/zh_651179506
 title: @我的知识笔记系统（基于anki）
 updated: 2024-10-06
-toc: true
 mathjax: true
 ---
 
