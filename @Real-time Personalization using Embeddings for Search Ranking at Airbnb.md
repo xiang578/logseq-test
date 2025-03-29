@@ -4,14 +4,14 @@ pages: 311-320
 place: "London, United Kingdom"
 library-catalog: DOI.org (Crossref)
 authors:
-- Mihajlo Grbovic
-- Haibin Cheng
+  - Mihajlo Grbovic
+  - Haibin Cheng
 doi: 10.1145/3219819.3219885
 tags:
-- Paper
-- Airbnb
-- KDD/2018
-- Algorithm
+  - Paper
+  - Airbnb
+  - KDD/2018
+  - Algorithm
 conference-name: the 24th ACM SIGKDD International Conference
 original-title: Real-time Personalization using Embeddings for Search Ranking at Airbnb
 links: [Local library](zotero://select/library/items/K4NZD22V), [Web library](https://www.zotero.org/users/4911197/items/K4NZD22V)
@@ -23,7 +23,7 @@ access-date: 2019-07-23T04:43:37Z
 language: en
 proceedings-title: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining  - KDD '18
 item-type:
-- conferencePaper
+  - conferencePaper
 isbn: 978-1-4503-5552-0
 updated: 2024-10-05
 toc: true
