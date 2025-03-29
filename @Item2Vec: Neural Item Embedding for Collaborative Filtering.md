@@ -1,20 +1,20 @@
 ---
 links: [Local library](zotero://select/library/items/CEVCWAD8), [Web library](https://www.zotero.org/users/4911197/items/CEVCWAD8)
 authors:
-- Oren Barkan
-- Noam Koenigstein
+  - Oren Barkan
+  - Noam Koenigstein
 tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Information Retrieval
-- Computer Science - Machine Learning
-- Paper
+  - Computer Science - Artificial Intelligence
+  - Computer Science - Information Retrieval
+  - Computer Science - Machine Learning
+  - Paper
 date:
-- 2017/02/20
+  - 2017/02/20
 item-type:
-- preprint
+  - preprint
 title: @Item2Vec: Neural Item Embedding for Collaborative Filtering
 alias:
-- Item2Vec
+  - Item2Vec
 public: true
 updated: 2024-10-05
 toc: true
