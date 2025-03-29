@@ -1,13 +1,13 @@
 ---
-title: Initialization
+title: "Initialization"
 alias:
-  - 参数初始化
+  - "参数初始化"
 tags:
-  - Algorithm
+  - "Algorithm"
 public: true
-deck: being/deep_learning/Initialization
-date: 2024-10-05
-updated: 2024-10-05
+deck: "being/deep_learning/Initialization"
+date: "2024-10-05"
+updated: "2024-10-05"
 toc: true
 mathjax: true
 ---
