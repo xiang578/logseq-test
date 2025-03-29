@@ -2,7 +2,7 @@
 title: CatBoost
 public: true
 tags:
-- Tree Model
+  - Tree Model
 date: 2024-10-05
 updated: 2024-10-05
 toc: true
