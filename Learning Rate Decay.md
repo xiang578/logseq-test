@@ -1,6 +1,6 @@
 ---
 alias:
-- 学习率衰减
+  - 学习率衰减
 public: true
 title: Learning Rate Decay
 tags:
