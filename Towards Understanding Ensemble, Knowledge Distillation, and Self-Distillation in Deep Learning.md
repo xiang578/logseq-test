@@ -1,7 +1,7 @@
 ---
 public: true
 tags:
-- Paper
+  - Paper
 title: Towards Understanding Ensemble, Knowledge Distillation, and Self-Distillation in Deep Learning
 date: 2024-10-05
 updated: 2024-10-05
