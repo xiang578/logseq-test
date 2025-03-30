@@ -35,7 +35,7 @@ mathjax: true
 
 [[Attachments]]
 
-  + [Real-time Personalization using Embeddings for Search Ranking at Airbnb-2018.pdf](zotero://select/library/items/PIUFF78T) {{zotero-linked-file "Real-time Personalization using Embeddings for Search Ranking at Airbnb_2018_Grbovic.pdf"}}
+  + [Real-time Personalization using Embeddings for Search Ranking at Airbnb-2018.pdf](zotero://select/library/items/PIUFF78T) 
 
 论文解决问题：
 
